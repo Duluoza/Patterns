@@ -20,3 +20,5 @@ class Server {
 
 const aws = new Server('aws german', '82.21.21.32')
 console.log(aws.getUrl())
+
+console.log('Hello')
